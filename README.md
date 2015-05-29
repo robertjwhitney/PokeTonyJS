@@ -39,8 +39,14 @@ Does it ever! Have a lot of people poking you? Decrease the `howOften` variable 
 
 ### v0.0.3
 
+- Poke Tony from the cloud?
 - Headless browser option?
 - If not, maybe a shell script to automate opening chrome window in background and doing the pokes there?
+
+### v0.0.4
+
+- Poke Tony As A Service (PTAAS)
+
 
 ## NOTICE
 
