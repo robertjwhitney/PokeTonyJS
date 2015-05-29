@@ -45,7 +45,7 @@ Does it ever! Have a lot of people poking you? Decrease the `howOften` variable 
 
 ### v0.0.4
 
-- Poke Tony As A Service (PTAAS)
+- Poke Tony As A Service™ (PTAAS)™
 
 
 ## NOTICE
