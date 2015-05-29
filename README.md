@@ -14,7 +14,15 @@ Only tested in Chrome, but should work in any browser.
 
 3) Copy and paste script into the Console
 
-4) Leave window open. 
+4) Poke any pokes you already have.
+
+5) Leave window open. 
+
+6) Laugh maniacally
+
+7) ???
+
+8) Profit
 
 It will poke back one person per interval  as long as the window is open
 
