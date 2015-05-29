@@ -26,7 +26,7 @@ It will poke not only Tony, but anyone at the top of your poking list. Change th
 
 ### Does it scale?
 
-Does it ever! Have a lot of people poking you? Decrease the `howOften` variable to something more frequent. It will poke one person per interval.
+Does it ever! Have a lot of people poking you? Decrease the `howOften` variable to something more frequent. It will poke one person per interval. I'd be careful about making it too frequent though, Facebook might think you are a bot.
 
 ## NOTICE
 
