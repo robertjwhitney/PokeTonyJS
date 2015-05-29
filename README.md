@@ -28,6 +28,19 @@ It will poke not only Tony, but anyone at the top of your poking list. Change th
 
 Does it ever! Have a lot of people poking you? Decrease the `howOften` variable to something more frequent. It will poke one person per interval. I'd be careful about making it too frequent though, Facebook might think you are a bot.
 
+## Roadmap
+
+### v0.0.2
+
+- Multiple pokes per interval (poke the entire array of people available to poke).
+- Replace `whoAmIPoking` with name of actual person poked.
+- Find other ways to automate annoying Tony.
+
+### v0.0.3
+
+- Headless browser?
+- If not, maybe a shell script to automate opening chrome window in background and doing the pokes there?
+
 ## NOTICE
 
 THIS SOFTWARE SHOULD NOT BE USED BY ANYONE EVER, IT IS EXPRESSLY DESIGNED FOR POKING TONY, IF YOU ARE NOT IN A POKING WAR WITH TONY I DON'T KNOW WHY YOU WOULD USE THIS.
