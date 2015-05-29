@@ -12,7 +12,7 @@ Only tested in Chrome, but should work in any browser.
 
 2) Click "Console"
 
-3) Copy and pase script into the Console
+3) Copy and paste script into the Console
 
 4) Leave window open. 
 
