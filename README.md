@@ -1,5 +1,7 @@
 # PokeTonyJS
 
+![Poke Tony](https://github.com/robertjwhitney/PokeTonyJS/blob/master/PokeTonyJS.gif)
+
 ## Background
 
 Tony is poking me on Facebook, forcing my hand in a poke war I did not want. We are now locked in an arms race.
