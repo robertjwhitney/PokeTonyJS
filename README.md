@@ -34,11 +34,12 @@ Does it ever! Have a lot of people poking you? Decrease the `howOften` variable 
 
 - Multiple pokes per interval (poke the entire array of people available to poke).
 - Replace `whoAmIPoking` with name of actual person poked.
+- Chrome extension
 - Find other ways to automate annoying Tony.
 
 ### v0.0.3
 
-- Headless browser?
+- Headless browser option?
 - If not, maybe a shell script to automate opening chrome window in background and doing the pokes there?
 
 ## NOTICE
